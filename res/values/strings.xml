@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="words">
+        <item>No Way</item>
+        <item>SHAKE AGAIN!!</item>
+        <item>ASK FOR \n FEEDBACK</item>
+        <item>ADMIT \n MISTAKES</item>
+        <item>DRIVE FOR \n RESULTS!</item>
+        <item>BE CURIOUS</item>
+        <item>ASK \n WHAT ELSE?</item>
+        <item>THINK AGAIN</item>
+        <item>GO FOR IT</item>
+        <item>RECOGNIZE \n SUCCESSES</item>
+        <item>BE \n TRANSPARENT</item>
+        <item>BUILT ON \n OTHERS IDEA</item>
+        <item>FORWARD!</item>
+        <item>DO NOT \n DO THIS</item>
+        <item>MOST \n LIKELY</item>
+        <item>DOUBTFUL</item>
+        <item>POSSIBLE</item>
+        <item>YES</item>
+        <item>WITHOUT \n A DOUBT</item>
+    </string-array>
+
+    <string name="title_activity_setting">Setting</string>
+
+</resources>
